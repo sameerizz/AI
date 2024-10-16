@@ -1,0 +1,11 @@
+Sore Throat,Fever,Swollen Glands,Congestion,Headache,Diagnosis
+yes,yes,yes,yes,yes,strep-throat
+yes,no,no,yes,no,strep-throat
+no,no,yes,no,no,strep-throat
+no,no,no,yes,yes,allergy
+no,no,no,no,no,allergy
+yes,no,yes,no,yes,allergy
+yes,yes,no,no,no,cold
+yes,yes,no,no,no,cold
+no,no,yes,no,yes,cold
+yes,yes,yes,yes,yes,cold
